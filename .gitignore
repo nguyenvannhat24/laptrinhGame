@@ -1,0 +1,22 @@
+# Unity folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / VSCode
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+
+# OS
+.DS_Store
+Thumbs.db
